@@ -4,7 +4,7 @@ int main (){
 
 int n,a=0,i=0,m,k,l;
 char book[20][50],temp[50],bookfind[50];
-char bookremove[20];
+char bookremove[50];
 
  char input_pass[10],pass[10]="lib2025";
  printf("WELCOME TO RISHANT'S LIBRARY\n\n");
