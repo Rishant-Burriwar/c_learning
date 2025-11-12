@@ -103,4 +103,6 @@ do{
    
 }while(outer_input < 7 );
 
+return 0;
+
 }

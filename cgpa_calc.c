@@ -97,5 +97,5 @@ int main() {
     cgpa();
 
 
-
+   return 0;
 }

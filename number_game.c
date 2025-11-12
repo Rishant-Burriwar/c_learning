@@ -49,4 +49,6 @@ int main(){
 
 printf("\nTHE number was %d\n", random);
 
+return 0;
+
 }

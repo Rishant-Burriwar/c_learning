@@ -178,7 +178,8 @@ do{
   else{
     printf("INVALID PASSWORD ENTERED");
 }
-
+ 
+return 0;
 }
 
 
