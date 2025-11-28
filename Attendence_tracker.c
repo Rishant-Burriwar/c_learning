@@ -31,7 +31,7 @@ int main(){
     getchar();  // <-- removes newline from buffer
     printf("\n");
 
-    if(option <0 || option>3){
+    if(option <1 || option>3){
         printf("PLEASE ENTER VALID OPTION\n");
         return 0;
     }
